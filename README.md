@@ -1,1 +1,0 @@
-# eduma-child
