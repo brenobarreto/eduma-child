@@ -30,7 +30,7 @@ do_action( 'thim_wrapper_loop_start' );
                 <div class="col-xs-6 text-left">
                     <h2><?php echo esc_attr__( '404 ', 'eduma' ); ?><span
                                 class="thim-color"><?php echo esc_attr__( 'Error!', 'eduma' ); ?></span></h2>
-                    <p><?php echo esc_attr__( 'Desculpe, não encontramos a página que você está procurando. Por favor, vá para a ', 'eduma' ); ?>
+                    <p><?php echo esc_attr__( 'Foi mal, não encontramos a página que você está procurando. Por favor, vá para a ', 'eduma' ); ?>
                         <a href="<?php echo esc_url( get_home_url() ); ?>"
                            class="thim-color"><?php echo esc_attr__( 'Home.', 'eduma' ); ?></a></p>
                 </div>
